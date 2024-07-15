@@ -1,11 +1,11 @@
-## 🚀 DevSecOps Engineer | Automation Enthusiast
+## 🚀 DevSecOps | Automation Enthusiast
 
-Welcome to my GitHub profile! I'm a DevSecOps engineer with a robust background in telecommunications big data and cybersecurity. My passion lies in ensuring secure, scalable, and efficient deployments in complex environments. 
+Welcome to my GitHub profile! I'm a computer engineer with a robust background in telecommunications big data and cybersecurity. 
+My passion lies in ensuring secure, scalable, and efficient deployments in complex environments. 
 
 ### 🌐 Areas of Expertise
 - **DevSecOps:** Integrating security practices into the DevOps pipeline to build secure, high-performing applications.
 - **Telecommunications:** Extensive experience working with big data systems in the telecom industry.
-- **Cybersecurity:** Implementing best practices to safeguard information and infrastructure.
 - **Cloud Environments:** Currently diving into cloud technologies to expand my skillset and stay ahead in the industry.
 - **Embedded Development & DIY Electronics:** Enthusiastic about creating and tinkering with embedded systems and DIY electronics projects.
 
